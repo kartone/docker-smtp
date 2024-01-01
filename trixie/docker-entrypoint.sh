@@ -39,6 +39,7 @@ dc_use_split_config='false'
 dc_hide_mailname='true'
 dc_mailname_in_oh='true'
 dc_localdelivery='mail_spool'
+tls_advertise_hosts =
 EOF
 
 # Set primary_hostname.
