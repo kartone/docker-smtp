@@ -1,6 +1,6 @@
 ## Supported tags
 
-* [`stretch`, `latest` (*stretch/Dockerfile*)](https://github.com/BytemarkHosting/docker-smtp/blob/master/stretch/Dockerfile)
+* [`trixie`, `latest` (*trixie/Dockerfile*)](https://github.com/BytemarkHosting/docker-smtp/blob/master/stretch/Dockerfile)
 
 ## Quick reference
 
